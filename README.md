@@ -1,5 +1,5 @@
-# hassio-addons
-Sdomotica Gateway for BTicino Legrand MyHome Living Now
+# hassio-addons-nuc
+Sdomotica addons 
 
 
 ![](images/01.jpg)
