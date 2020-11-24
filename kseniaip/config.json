@@ -1,0 +1,23 @@
+{
+  "name": "Sdomotica KseniaIP",
+  "version": "0.0.4",
+  "slug": "sdomoticakseniaipnuc",
+  "arch": ["amd64", "i386"],
+  "description": "Gateway for KseniaIP Alarm",
+  "url": "https://www.facebook.com/sdomotica",
+   "webui": "http://[HOST]:[PORT:3010]",  
+  "startup": "application",
+  "boot": "auto",
+  "ports": {
+    "3010/tcp": 3010
+   },
+  "map": [
+    "share:rw",
+	"config:rw"
+  ],
+  "options": {
+  },
+  "schema": {
+  }
+}
+
