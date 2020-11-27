@@ -1,6 +1,6 @@
 {
   "name": "Sdomotica BTicino Alarm",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "slug": "sdomoticakseniaip",
   "arch": ["amd64", "i386"],   
   "description": "Gateway for BTicino Alarm 4200/4201/4202",
