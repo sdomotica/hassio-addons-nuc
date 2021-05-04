@@ -1,6 +1,6 @@
 {
   "name": "Sdomotica BTicino 2021",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "slug": "sdomoticabticino2021nuc",
   "arch": ["amd64", "i386"],
   "description": "Gateway for BTicino SCS",
