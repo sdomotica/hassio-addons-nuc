@@ -1,0 +1,26 @@
+{
+  "name": "Sdomotica BTicino 2022",
+  "version": "4.05 new mqtt",
+  "slug": "sdomoticabticino2022nuc",
+  "arch": ["amd64", "i386"],
+  "description": "Gateway for BTicino SCS",
+  "url": "https://www.facebook.com/sdomotica",
+   "webui": "http://[HOST]:[PORT:3100]",  
+  "startup": "application",
+  "boot": "auto",
+
+  "ports": {
+    "3100/tcp": 3100,
+    "3000/tcp": 3000,
+    "3300/tcp": 3300
+
+   },
+  "map": [
+    "share:rw",
+	"config:rw"
+  ],
+  "options": {
+  },
+  "schema": {
+  }
+}
