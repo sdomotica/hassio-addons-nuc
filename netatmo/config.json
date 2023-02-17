@@ -1,0 +1,24 @@
+{
+  "name": "Sdomotica Netatmo",
+  "version": "2023.02.0",
+  "slug": "sdomoticanetatmo2023",
+  "arch": ["amd64", "i386"],
+  "description": "Gateway for Living Now Smart",
+  "url": "https://www.facebook.com/sdomotica",
+   "webui": "http://[HOST]:[PORT:3401]",  
+  "startup": "application",
+  "boot": "auto",
+
+  "ports": {
+    "3401/tcp": 3401
+
+   },
+  "map": [
+    "share:rw",
+	"config:rw"
+  ],
+  "options": {
+  },
+  "schema": {
+  }
+}
