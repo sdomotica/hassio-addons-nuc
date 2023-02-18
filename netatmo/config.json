@@ -1,6 +1,6 @@
 {
   "name": "Sdomotica Netatmo",
-  "version": "2023.02.0",
+  "version": "2023.02.1",
   "slug": "sdomoticanetatmo2023",
   "arch": ["amd64", "i386"],
   "description": "Gateway for Living Now Smart",
